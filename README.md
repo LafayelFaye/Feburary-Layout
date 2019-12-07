@@ -6,4 +6,4 @@ Download the zip file here -> https://www.dropbox.com/s/hq9m5u4shphi2uh/february
 This layout was created by Estella Santiago aka LafayelFaye  
 * [Behance](https://www.behance.net/estellasantiago
 ## Do's and Don'ts
-To edit the layout (the index, about, links, and terms) open the index.html in an editor such as Notepad. You're welcome to edit the style.css and change the colors, font, etc.  
+To edit the layout (the index, about, links, and terms) open the index.html in an editor such as Notepad. And you would do the same when editing the other website pages. You're welcome to edit the style.css and change the colors, font, etc. Just leave the credit intact. <3
